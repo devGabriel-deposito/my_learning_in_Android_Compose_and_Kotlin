@@ -1,0 +1,14 @@
+DAs classes fornecem instruções para construir objetos. Um objeto é uma instância de uma classe que consiste em dados específicos desse objeto. Você pode usar objetos ou instâncias de classe como sinônimos.
+
+Como analogia, imagine que você vai construir uma casa. Uma classe é semelhante ao plano de design de um arquiteto, também conhecido como planta. A planta não é a casa em si, mas sim instruções sobre como a construir. A casa é o objeto real que é construído com base na planta.
+
+Assim como a planta da casa especifica várias salas, cada uma com o próprio design e finalidade, cada classe também tem um design e propósito próprios. Para aprender a projetar suas classes, você precisa se familiarizar com a _programação orientada a objetos (OOP, na sigla em inglês)_, um framework que mostra como incluir dados, lógica e comportamento em objetos.
+
+A OOP ajuda a simplificar problemas complexos em objetos menores. Você vai aprender sobre os quatro conceitos básicos de OOP mais adiante neste codelab:
+
+- **Encapsulamento**. Une as propriedades e os métodos relacionados que executam ações nessas propriedades em uma classe. Por exemplo, pense no smartphone. Ele encapsula uma câmera, uma tela, cartões de memória e vários outros componentes de hardware e software. Você não precisa se preocupar com a forma como os componentes são conectados internamente.
+- **Abstração**. Uma extensão do encapsulamento. A ideia é ocultar ao máximo a lógica de implementação interna. Por exemplo, para tirar uma foto com o smartphone, basta abrir o app da câmera, enquadrar a cena que você quer capturar e tocar em um botão. Você não precisa saber como o app foi criado ou como o hardware da câmera no smartphone realmente funciona. Em resumo, a mecânica interna do app e a forma como uma câmera móvel captura as fotos são abstraídas para você.
+- **Herança**. Permite criar uma classe com base nas características e no comportamento de outras classes ao estabelecer uma relação pai-filho. Por exemplo, os fabricantes produzem vários dispositivos móveis com o Android, mas a interface deles é diferente. Em outras palavras, os fabricantes herdam o recurso do SO Android e criam personalizações com base nele.
+- **Polimorfismo**. Essa palavra é uma adaptação da raiz grega _poli_, que significa "muitas", e _morphos_, que significa "formas". O polimorfismo é a capacidade de usar objetos diferentes de uma maneira única e comum. Por exemplo, quando você conecta um alto-falante Bluetooth a um smartphone, a única informação necessária é que há um dispositivo que pode tocar áudio por Bluetooth. No entanto, há várias opções de alto-falantes Bluetooth disponíveis, e o smartphone não precisa saber trabalhar com cada um deles especificamente.
+
+Por fim, você vai aprender sobre delegados de propriedade que fornecem código reutilizável para gerenciar val
