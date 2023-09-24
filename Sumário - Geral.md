@@ -1,8 +1,8 @@
 - Android
-	- [[Android/História]]
+	- [[my_learning_in_Android_Compose_and_Kotlin/História]]
 	- [[Versões]]
 	- [[Desenvolvimento]]
-	- [[Dicionário]]
+	- [[Dicionário - Android, JetPack Compose]]
 - Jetpack
 	- [[Sumário - Jetpack]]
 - Kotlin

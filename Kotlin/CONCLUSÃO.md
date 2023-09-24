@@ -1,0 +1,11 @@
+- Há quatro princípios importantes de programação orientada a objetos: encapsulamento, abstração, herança e polimorfismo.
+- As classes são definidas com a palavra-chave `class` e contêm propriedades e métodos.
+- As propriedades são semelhantes às variáveis, mas podem ter getters e setters personalizados.
+- Um construtor especifica como instanciar objetos de uma classe.
+- Você pode omitir a palavra-chave `constructor` na definição de um construtor principal.
+- A herança facilita a reutilização de códigos.
+- A relação IS-A se refere à herança.
+- A relação HAS-A se refere à composição.
+- Os modificadores de visibilidade têm um papel importante para o encapsulamento.
+- O Kotlin oferece quatro modificadores de visibilidade: `public`, `private`, `protected` e `internal`.
+- Um delegado de propriedade permite reutilizar o código getter e setter em várias classes.

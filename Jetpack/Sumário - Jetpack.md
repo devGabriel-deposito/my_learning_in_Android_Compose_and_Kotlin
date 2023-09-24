@@ -1,5 +1,5 @@
 - Compose
-	- [[Jetpack Compose]]
-	- [[Modificadores de layout]]
-	- [[Organizar os elementos de texto em uma linha e uma coluna]]
-	- [[Padding]]
+	- [[1 - Jetpack Compose]]
+	- [[2 - Modificadores de layout]]
+	- [[3 - Organizar os elementos de texto em uma linha e uma coluna]]
+	- [[4 - Padding]]
