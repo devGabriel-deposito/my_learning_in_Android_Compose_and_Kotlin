@@ -12,5 +12,12 @@
 	- [[7 - Relação entre classes]]
 	- [[8 - Delegados de propriedade]]
 	- [[CONCLUSÃO]]
+- Funções
+	- [[Armazenar variáveis em funções]]
+- Genéricos, objetos e extensões
+	- [[my_learning_in_Android_Compose_and_Kotlin/Kotlin/Genéricos, objetos e extensões/1 - Introdução]]
+	- [[2 - Criar uma classe reutilizável com genéricos]]
+	- [[3 - Enum]]
+	- [[4 - Classe de Dados]]
 
 [[Dicionário - Kotlin]]

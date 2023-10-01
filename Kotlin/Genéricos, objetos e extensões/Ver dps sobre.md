@@ -1,0 +1,5 @@
+- [Genéricos](https://kotlinlang.org/docs/generics.html)
+- [Classes de enumeração](https://kotlinlang.org/docs/enum-classes.html)
+- [Classes de dados](https://kotlinlang.org/docs/data-classes.html)
+- [Expressões e declarações de objeto](https://kotlinlang.org/docs/object-declarations.html) (link em inglês)
+- [Funções de escopo](https://kotlinlang.org/docs/scope-functions.html)

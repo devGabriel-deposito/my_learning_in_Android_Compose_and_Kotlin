@@ -2,6 +2,12 @@
 
 O Jetpack Compose é um kit de ferramentas moderno para a criação de IUs do Android. O Compose simplifica e acelera o desenvolvimento da interface no Android com menos código, ferramentas poderosas e recursos Kotlin intuitivos. Com o Compose, você pode criar a interface definindo um conjunto de funções, conhecidas como funções combináveis, que recebem dados e descrevem elementos da interface.
 
+O Compose é um framework de interface declarativo, o que significa que a interface é definida no código. Para atualizar a interface durante a execução do app ou em resposta a interações do usuário, é necessário usar um processo chamado recomposição. A recomposição é responsável por atualizar a descrição da interface com base em mudanças de estado.
+
+A composição é a descrição da interface criada pelo Compose quando ele executa elementos combináveis. O Compose chama funções combináveis para criar elementos da interface e, quando ocorre uma mudança de estado, ele executa novamente as funções combináveis afetadas para criar uma interface atualizada, chamando esse processo de recomposição. O Compose automaticamente programa a recomposição quando ocorrem atualizações de estado.
+
+A composição só pode ser criada inicialmente e atualizada por meio da recomposição. O Compose rastreia o estado que deve ser monitorado, como a variável "amountInput" no exemplo, e programa recomposições sempre que esse estado muda, garantindo que a interface seja sempre atualizada de acordo com as mudanças de dados.
+
 ## Funções combináveis
 
 As funções combináveis são o elemento básico de uma interface no Compose. Uma função combinável:

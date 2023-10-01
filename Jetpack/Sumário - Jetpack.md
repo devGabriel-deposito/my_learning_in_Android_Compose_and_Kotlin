@@ -3,3 +3,7 @@
 	- [[2 - Modificadores de layout]]
 	- [[3 - Organizar os elementos de texto em uma linha e uma coluna]]
 	- [[4 - Padding]]
+	- [[5 - Introdução ao estado no Compose]]
+	- [[6 - Estado e recomposição em ação]]
+	- [[7 - Elevação de Estado]]
+	- [[8 - Testes Automatizados]]

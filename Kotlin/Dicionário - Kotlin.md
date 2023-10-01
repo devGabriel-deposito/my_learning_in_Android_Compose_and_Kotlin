@@ -108,7 +108,7 @@ Kotlin suporta os seguintes operadores e símbolos especiais:
 - `[`, `]` - operador de acesso indexado (traduzido para chamadas de `get` e `set`).
 - `!!` - afirma que uma expressão é não nula.
 - `?.` - realiza uma chamada segura (chama um método ou acessa uma propriedade se o receptor for não nulo).
-- `?:` - pega o valor à direita se o valor à esquerda for nulo (operador elvis).
+- `?:` - (operador Elvis) pega o valor à direita se o valor à esquerda for nulo.
 - `::` - cria uma referência de membro ou uma referência de classe.
 - `..`, `..<` - cria intervalos.
 - `:` - separa um nome de um tipo em uma declaração.
@@ -123,5 +123,5 @@ Kotlin suporta os seguintes operadores e símbolos especiais:
   - Faz referência a uma superclasse externa.
 - `;` - separa várias instruções na mesma linha.
 - `$` - faz referência a uma variável ou expressão em um modelo de string.
-- `_` - substitui um parâmetro não utilizado em uma expressão lambda.
+- `_` substitui um parâmetro não utilizado em uma expressão lambda.
   - Substitui um parâmetro não utilizado em uma declaração de desestruturação.

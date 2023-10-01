@@ -1,0 +1,3 @@
+Ao longo de anos e ao passar da criação de diversas linguagens, os programadores foram desenvolvendo recursos de linguagem de programação, a fim de solucionar problemas comuns. Alguns exemplos de recursos, são a possibilidade de expressar a mesma ideia com menos código, usar abstração para expressar ideias complexas e programar código que evita que outros desenvolvedores cometam erros acidentalmente. O mesmo ocorre com a linguagem Kotlin, que oferece vários recursos para ajudar desenvolvedores a programar códigos mais expressivos.
+
+No entanto, algumas vezes, para novos programadores, ou recém-chegados em alguma tecnologia, pode parecer confuso e difícil de perceber quais problemas eles resolvem e o quanto é vantajoso utilizá-los.
