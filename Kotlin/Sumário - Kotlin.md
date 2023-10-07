@@ -19,5 +19,9 @@
 	- [[2 - Criar uma classe reutilizável com genéricos]]
 	- [[3 - Enum]]
 	- [[4 - Classe de Dados]]
+	- [[Ver dps sobre]]
+- Coleções
+	- [[my_learning_in_Android_Compose_and_Kotlin/Kotlin/Coleções/1 - Introdução]]
+	- [[2 - Matrizes]]
 
 [[Dicionário - Kotlin]]
